@@ -1,0 +1,40 @@
+.h2sub{
+    padding-top: 20px;
+    font-size: 40px;
+}
+
+hr{
+    margin: 50px 0px;
+}
+
+.h3sub{
+    font-size: 25px;
+    margin: 30px 0px;
+}
+
+.sectioncuidado{
+    text-align: center;
+    margin: 0px 60px;
+}
+
+li{
+    list-style: none;
+}
+
+.containercuidado{
+    display: flex;
+}
+
+.containercuidado p{
+    margin: 30px;
+}
+
+.containercuidado2{
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 20px;
+}
+
+.containercuidado2 p{
+    margin: 30px;
+}
